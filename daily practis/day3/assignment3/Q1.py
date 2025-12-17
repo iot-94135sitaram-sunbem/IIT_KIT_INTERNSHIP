@@ -7,4 +7,4 @@ print("capitalize():", s.capitalize())
 print("swapcase():", s.swapcase())
 print("strip():", s.strip())
 print("lstrip():", s.lstrip())
-print("rstrip():", s.rstrip())  # Removed extra parenthesis
+print("rstrip():", s.rstrip())  
